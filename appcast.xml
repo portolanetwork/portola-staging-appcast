@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>My App Updates</title>
-        <link>https://yourdomain.com</link>
-        <description>My App Update Feed</description>
+        <title>Portola App Updates</title>
+        <link>https://yourusername.github.io/portola-appcast/</link>
+        <description>Latest updates for Portola</description>
+        <language>en</language>
         <item>
-            <title>My App v1.1</title>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:releaseNotesLink>https://yourdomain.com/release-notes.html</sparkle:releaseNotesLink>
-            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://yourdomain.com/download/my-app-v1.1.dmg" sparkle:version="1.1" length="12345678" type="application/octet-stream"/>
+            <title>Version 1.1.0</title>
+            <sparkle:releaseNotesLink>https://yourusername.github.io/portola-appcast/release-notes.html</sparkle:releaseNotesLink>
+            <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
+            <enclosure
+                url="https://yourusername.github.io/portola-appcast/PortolaApp-1.1.0.zip"
+                sparkle:version="1100"
+                sparkle:shortVersionString="1.1.0"
+                length="12345678"
+                type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
