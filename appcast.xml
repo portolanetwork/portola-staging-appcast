@@ -9,7 +9,7 @@
         <language>en</language>
         <item>
             <title>Version 1.1.0</title>
-            <sparkle:releaseNotesLink>https://yourusername.github.io/portola-appcast/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://portolanetwork.github.io/portola-staging-appcast/release-notes.html</sparkle:releaseNotesLink>
             <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
             <enclosure
                 url="https://portolanetwork.github.io/portola-staging-appcast/PortolaApp-v003.zip"
