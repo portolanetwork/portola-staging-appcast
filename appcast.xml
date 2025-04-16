@@ -14,8 +14,8 @@
             <enclosure
                 url="https://portolanetwork.github.io/portola-staging-appcast/PortolaApp-v003.zip"
                 sparkle:version="1100"
-                sparkle:shortVersionString="0.0.3"
-                length="12345678"
+                sparkle:shortVersionString="1100"
+                length="988751"
                 type="application/octet-stream"/>
         </item>
     </channel>
