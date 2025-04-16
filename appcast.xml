@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>My App Updates</title>
+        <link>https://yourdomain.com</link>
+        <description>My App Update Feed</description>
+        <item>
+            <title>My App v1.1</title>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:releaseNotesLink>https://yourdomain.com/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://yourdomain.com/download/my-app-v1.1.dmg" sparkle:version="1.1" length="12345678" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
