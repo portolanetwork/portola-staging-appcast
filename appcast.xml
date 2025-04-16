@@ -12,9 +12,9 @@
             <sparkle:releaseNotesLink>https://yourusername.github.io/portola-appcast/release-notes.html</sparkle:releaseNotesLink>
             <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
             <enclosure
-                url="https://yourusername.github.io/portola-appcast/PortolaApp-1.1.0.zip"
+                url="https://portolanetwork.github.io/portola-staging-appcast/PortolaApp-v003.zip"
                 sparkle:version="1100"
-                sparkle:shortVersionString="1.1.0"
+                sparkle:shortVersionString="0.0.2"
                 length="12345678"
                 type="application/octet-stream"/>
         </item>
