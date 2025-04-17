@@ -1,22 +1,14 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"
-     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
-     xmlns:dc="http://purl.org/dc/elements/1.1/">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Portola App Updates</title>
-        <link>https://yourusername.github.io/portola-appcast/</link>
-        <description>Latest updates for Portola</description>
-        <language>en</language>
+        <title>PortolaApp</title>
         <item>
-            <title>Version 0.0.3</title>
-            <sparkle:releaseNotesLink>https://portolanetwork.github.io/portola-staging-appcast/release-notes.html</sparkle:releaseNotesLink>
-            <pubDate>Wed, 16 Apr 2025 12:00:00 +0000</pubDate>
-            <enclosure
-                url="https://portolanetwork.github.io/portola-staging-appcast/PortolaApp-v003.zip"
-                sparkle:version="0.0.3"
-                sparkle:shortVersionString="0.0.3"
-                length="988751"
-                type="application/octet-stream"/>
+            <title>0.0.4</title>
+            <pubDate>Wed, 16 Apr 2025 18:08:21 -0700</pubDate>
+            <sparkle:version>0.0.4</sparkle:version>
+            <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <enclosure url="https://portolanetwork.github.io/portola-appcast/PortolaApp-v004.zip" length="989332" type="application/octet-stream" sparkle:edSignature="TFVM3b25uuCUemFeJTCDKC1LnapjAiSNIj1Nna7J+gIQg6guCpbZztPeJdq44P/WwI1cP2eTqOljZyXEnl1sDw=="/>
         </item>
     </channel>
 </rss>
