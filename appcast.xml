@@ -8,7 +8,7 @@
             <sparkle:version>0.0.19</sparkle:version>
             <sparkle:shortVersionString>0.0.19</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://portolanetwork.github.io/portola-staging-appcast/PortolaApp.dmg" length="2239874" type="application/octet-stream" sparkle:edSignature="xszp4SWrMjp+qvI3umT96N8BK1bWky04JHBxk3cS7Zcwb/SR3L4ZCTss/mJmLEI1CY0WogbUNkjZscvQseMjAw=="/>
+            <enclosure url="https://portolanetwork.github.io/portola-staging-appcast/PortolaApp-v0019.dmg" length="2239843" type="application/octet-stream" sparkle:edSignature="Vv9K9+lr7iJnRiQP4PYvJJNW68Q//HVcZxtLYdGubvu8bLzjCxZgtCI+/7Vcytlz6QJ0dayOAlYmvCvYZ0DYCw=="/>
         </item>
     </channel>
 </rss>
