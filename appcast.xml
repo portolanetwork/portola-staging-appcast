@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>PortolaApp-Staging</title>
+        <title>PortolaStaging</title>
         <item>
-            <title>0.7.213</title>
-            <pubDate>Fri, 25 Apr 2025 15:01:39 -0700</pubDate>
-            <sparkle:version>0.7.213</sparkle:version>
-            <sparkle:shortVersionString>0.7.213</sparkle:shortVersionString>
+            <title>0.7.215</title>
+            <pubDate>Sun, 27 Apr 2025 22:56:34 -0700</pubDate>
+            <sparkle:version>0.7.215</sparkle:version>
+            <sparkle:shortVersionString>0.7.215</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://portolanetwork.github.io/portola-staging-appcast/PortolaApp-Staging-v0.7.213.dmg" length="69867355" type="application/octet-stream" sparkle:edSignature="aePBExqAASYLxQz/GoaZsZSgsmB0nb/YZSOIfLgRCDb7XrWh9xHTdFinf8sWVyiW4xZSLhlKekqg5RvcUgUPBQ=="/>
+            <enclosure url="https://portolanetwork.github.io/portola-staging-appcast/PortolaStaging-v0.7.215.dmg" length="64582257" type="application/octet-stream" sparkle:edSignature="HqjTjV/yEW0jEiWMrXJHdjPo7JUpN59yeoOT1kWYCgiOlRFXVeo7ESaLsQdupYvMDXrId/nrn7R6dRE9ffJQDQ=="/>
         </item>
     </channel>
 </rss>
