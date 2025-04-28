@@ -3,12 +3,12 @@
     <channel>
         <title>PortolaStaging</title>
         <item>
-            <title>0.7.215</title>
-            <pubDate>Sun, 27 Apr 2025 22:56:34 -0700</pubDate>
-            <sparkle:version>0.7.215</sparkle:version>
-            <sparkle:shortVersionString>0.7.215</sparkle:shortVersionString>
+            <title>0.7.217</title>
+            <pubDate>Mon, 28 Apr 2025 13:21:00 -0700</pubDate>
+            <sparkle:version>0.7.217</sparkle:version>
+            <sparkle:shortVersionString>0.7.217</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://portolanetwork.github.io/portola-staging-appcast/PortolaStaging-v0.7.215.dmg" length="64582257" type="application/octet-stream" sparkle:edSignature="HqjTjV/yEW0jEiWMrXJHdjPo7JUpN59yeoOT1kWYCgiOlRFXVeo7ESaLsQdupYvMDXrId/nrn7R6dRE9ffJQDQ=="/>
+            <enclosure url="https://portolanetwork.github.io/portola-staging-appcast/PortolaStaging-v0.7.217.dmg" length="64583978" type="application/octet-stream" sparkle:edSignature="Sy1U2IPquQk7djJsRVY79vmI7S/DqFTeTJI4Yg4BsooNvRT7dzYdtRtetKgpwWE3cppI3ySnU1MPykhy6C08AQ=="/>
         </item>
     </channel>
 </rss>
